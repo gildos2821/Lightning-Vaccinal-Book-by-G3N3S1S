@@ -2,10 +2,10 @@
 
 ## 👥 Équipe G3N3S1S
 
-- **AGBALE Bellevie** – Designer UX  
-- **AGBOTON Ariane** – Développeur Backend  
-- **AHOGNISSE Ariel** – Développeur Backend  
-- **EDAYE DOKOUI Béni-Christ** – Développeur Frontend  
+- **AGBALE Bellevie** – Designer UX 
+- **AGBOTON Ariane** – Développeur Backend – https://github.com/Dona-ima
+- **AHOGNISSE Ariel** – Développeur Backend et mobile – https://github.com/arielcarmen
+- **EDAYE DOKOUI Béni-Christ** – Développeur Frontend –
 - **HOUEDANOU Gildas** – Ingénieur Informatique  
 
 ---
@@ -123,7 +123,13 @@ Le jour du rendez-vous, il confirme son identité avec son numéro d’identific
 
 ---
 
-## ⚙️ Défis techniques rencontrés
+## ⚙️ Ressoures
+
+- Serveur backend : https://github.com/arielcarmen/python-lnd-connect
+- Serveur frontend : 
+- Application mobile : https://github.com/arielcarmen/vaccination_book_app
+- Maquettes : https://www.figma.com/design/dGGxc8iEpWnEztIxOaZSHq/Book-Vaccinal-Lightning?node-id=85-3&p=f&t=GL4wf0vt7T49OIJp-0
+- Application (generated) : https://drive.google.com/drive/folders/15nFxgE5UjH8U1zUEkUnznjrC2Ngqa1aq (Essayez v1 ou v2 en fonction de l'architecture de votre téléphone)
 
 
 ---
