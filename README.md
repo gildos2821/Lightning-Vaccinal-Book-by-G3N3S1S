@@ -1,41 +1,42 @@
 # ⚡ Lightning Vaccinal Book
 
-## 👥 Équipe G3N3S1S
+## 👥 G3N3S1S Team
 
 - **AGBALE Bellevie** – UI/UX Designer 
-- **AGBOTON Ariane** – Développeur Backend – https://github.com/Dona-ima
-- **AHOGNISSE Ariel** – Développeur Backend et mobile – https://github.com/arielcarmen
-- **EDAYE DOKOUI Béni-Christ** – Développeur Frontend –
-- **HOUEDANOU Gildas** – Ingénieur Informatique  
+- **AGBOTON Ariane** – Backend Developper – https://github.com/Dona-ima
+- **AHOGNISSE Ariel** –  Backend et mobile developper – https://github.com/arielcarmen
+- **EDAYE DOKOUI Béni-Christ** – Frontend develpper –
+- **HOUEDANOU Gildas** – Computer scientist –
 
 ---
 
-## 📄 Résumé Exécutif
+## 📄 Executive Summary
 
-**Lightning Vaccinal Book** est une application de carnet de vaccination numérique permettant aux patients de conserver leurs preuves de vaccination sur une plateforme sécurisée. Elle aide les centres de santé à certifier les vaccinations, et les contrôleurs à les vérifier rapidement à l’aide de QR codes.
+**Lightning Vaccinal Book** It is a digital vaccination record application that allows patients to store their vaccination proofs on a secure platform. It helps health centers certify vaccinations and enables inspectors to verify them quickly using QR codes.
 
-Notre solution lutte contre les faux carnets, facilite le suivi vaccinal, et renforce la sécurité sanitaire, notamment dans des contextes sensibles comme les déplacements ou les contrôles de santé.
+Our solution combats fake vaccination booklets, facilitates vaccination tracking, and strengthens health security — especially in sensitive contexts such as travel or health inspections.
 
 ---
 
-## ❗ Problématique Identifiée
+## ❗ Identified Problem
 
 ### 🔍 Le problème
 
-Dans de nombreux pays, les carnets de vaccination sont encore **physiques, fragiles et facilement falsifiables**. Cela nuit à la fiabilité des données, complique les contrôles, et représente un frein à la sécurité sanitaire (ex: COVID-19, fièvre jaune).
+In many countries, vaccination booklets are still **physical, fragile, and easily falsifiable**. This undermines data reliability, complicates verification processes, and poses a barrier to health security (e.g., COVID-19, yellow fever).
 
-> En Afrique de l’Ouest, **1 personne sur 3** ne peut pas présenter un carnet complet ou lisible.
+>In West Africa, 1 in 3 people is unable to present a complete or legible vaccination record.
 
-### 👥 Public cible
+### 👥 Target Audience
 
-Notre solution s’adresse à trois types d’utilisateurs :
-- **Les patients** : pour conserver leurs certificats sans risque de perte ou de dégradation.
-- **Les centres de santé** : pour délivrer des preuves de vaccination **authentiques et infalsifiables**.
-- **Les contrôleurs** (hôpitaux, frontières, écoles) : pour vérifier rapidement les certificats.
+Our solution is designed for three types of users :
+- **Patients** : to store their certificates without the risk of loss or damage.
+- **Health centers** :to issue **authentic and tamper-proof** vaccination proofs.
+- **Controllers** (hospitals, borders, schools): to quickly verify certificate.
 
-Les patients ont besoin d’un moyen fiable de conserver leur carnet de vaccination, sans risque de perte ou de dégradation. Les centres de santé, de leur côté, doivent pouvoir délivrer des preuves authentiques et infalsifiables des vaccinations administrées. Enfin, les contrôleurs (aux frontières, dans les écoles ou dans les hôpitaux) ont besoin d’un outil simple et rapide pour vérifier l’authenticité des carnets de vaccination.
-Aujourd’hui, la perte ou la dégradation des carnets vaccinaux est fréquente, notamment en Afrique de l’Ouest où environ une personne sur trois ne peut présenter un carnet complet ou en bon état. Ce manque de traçabilité entraîne des difficultés d’accès à certains services de santé, d’éducation ou de mobilité. À cela s’ajoute la prolifération de faux certificats, qui constitue une menace grave pour la sécurité sanitaire, surtout en période d’épidémies comme le COVID-19 ou la fièvre jaune.
-Il est donc essentiel de proposer une solution numérique, portable et sécurisée, qui permette à chaque individu de disposer d’un carnet vaccinal fiable et facilement vérifiable. C’est dans ce contexte que notre application apporte une réponse concrète, adaptée au terrain, en renforçant la confiance entre patients, centres et autorités.
+Patients need a reliable way to keep their vaccination records without risk of loss or damage. Health centers, on their part, must be able to issue authentic and tamper-proof proof of administered vaccinations. Finally, inspectors (at borders, schools, or hospitals) require a simple and fast tool to verify the authenticity of vaccination records.
+Today, the loss or deterioration of vaccination records is common, especially in West Africa, where approximately one in three people cannot present a complete or well-preserved booklet. This lack of traceability leads to difficulties accessing certain health, education, or mobility services. Additionally, the proliferation of fake certificates poses a serious threat to health security, particularly during epidemics such as COVID-19 or yellow fever.
+
+It is therefore essential to provide a digital, portable, and secure solution that allows every individual to have a reliable and easily verifiable vaccination record. It is in this context that our application offers a concrete response, adapted to local realities, by strengthening trust between patients, health centers, and authorities.
 
 
 ---
