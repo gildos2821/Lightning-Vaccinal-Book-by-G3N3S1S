@@ -2,7 +2,7 @@
 
 ## 👥 Équipe G3N3S1S
 
-- **AGBALE Bellevie** – Designer UX 
+- **AGBALE Bellevie** – UI/UX Designer 
 - **AGBOTON Ariane** – Développeur Backend – https://github.com/Dona-ima
 - **AHOGNISSE Ariel** – Développeur Backend et mobile – https://github.com/arielcarmen
 - **EDAYE DOKOUI Béni-Christ** – Développeur Frontend –
